@@ -21,7 +21,7 @@ Ce projet est un crawleur web multithreadé développé en Python. Le crawleur e
 1. **Cloner le repository** :
 
     ```bash
-    git clone https://github.com/votre-nom-utilisateur/web-crawler-project.git
+    git clone 
     cd web-crawler-project
     ```
 
