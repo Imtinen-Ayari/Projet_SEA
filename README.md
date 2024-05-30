@@ -21,7 +21,7 @@ Ce projet est un crawleur web multithreadé développé en Python. Le crawleur e
 1. **Cloner le repository** :
 
     ```bash
-    git clone 
+    git clone https://github.com/Imtinen-Ayari/Projet_SEA.git
     cd web-crawler-project
     ```
 
