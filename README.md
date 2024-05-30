@@ -92,7 +92,7 @@ Vérifie les directives du fichier `robots.txt` d'un site web pour déterminer s
 
 ## Auteurs
 
-- Imtinen (https://github.com/votre-nom-utilisateur)
+- Imtinen (https://github.com/Imtinen-Ayari)
 
 
 
