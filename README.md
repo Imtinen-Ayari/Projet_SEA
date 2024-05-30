@@ -22,7 +22,7 @@ Ce projet est un crawleur web multithreadé développé en Python. Le crawleur e
 
     ```bash
     git clone https://github.com/Imtinen-Ayari/Projet_SEA.git
-    cd web-crawler-project
+    cd Projet_SEA
     ```
 
 2. **Installer les dépendances** :
