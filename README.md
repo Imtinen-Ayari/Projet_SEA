@@ -44,9 +44,6 @@ source env/bin/activate
 # Installation des bibliothèques nécessaires
 pip install requests beautifulsoup4 tqdm
 
-# Création du fichier de script Python
-nano web_crawler.py
-
 # Exécution du script Python
 python3 web_crawler.py
 
