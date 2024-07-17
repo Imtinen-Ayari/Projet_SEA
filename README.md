@@ -25,11 +25,7 @@ Ce projet est un crawleur web multithreadé développé en Python. Le crawleur e
     cd Projet_SEA
     ```
 
-2. **Installer les dépendances** :
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Utilisation
 
