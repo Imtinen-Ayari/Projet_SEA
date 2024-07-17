@@ -36,7 +36,30 @@ Ce projet est un crawleur web multithreadé développé en Python. Le crawleur e
 1. **Exécuter le script principal** pour lancer le crawleur :
 
     ```bash
-    python long_crawler.py
+    Mise à jour du système et installation de Python et pip
+sudo apt update
+sudo apt install python3 python3-pip
+
+# (Optionnel) Création et activation d'un environnement virtuel
+sudo apt install python3-venv
+python3 -m venv env
+source env/bin/activate
+
+# Installation des bibliothèques nécessaires
+pip install requests beautifulsoup4 tqdm
+
+# Création du fichier de script Python
+nano web_crawler.py
+
+# Exécution du script Python
+python3 web_crawler.py
+
+# Generation de fichier html
+python3 generate_html.py
+
+# Lancer le fichier html sur le navigateur
+xdg-open crawl_results.html
+
     ```
 
     Le script commencera à explorer les URLs spécifiées et enregistrera les titres des pages dans un fichier CSV nommé `crawl_results.csv`.
